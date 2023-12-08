@@ -4,7 +4,7 @@
 ### How to run problem 1 
 1. clone the whole repository into your local machine using below code   
    git clone https://github.com/hasan-moni-321/assignment_rhyan.git    
-2. Install the necessary library in a virtual environment using this code(below)
+2. Install the necessary library in a virtual environment using this code(below)  
    i) Create virtual environment  
       python3 -m venv .venv  
       source .venv/bin/activate  
