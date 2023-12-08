@@ -14,3 +14,10 @@
 1. In the same virtual environment keep problem_2.ipynb file
 2. Open the file in VSCode as I used VSCode
 3. Press Shift+Enter for running each cell
+
+## How to increase accuracy of the problem 2
+1. Add more data
+2. Properly clean corrupted data and deal with missing data and outlier data
+3. Feature engineering
+4. Hyperparameter tuning. Use Hyperparameter Tuning with 
+5. Cross Validation. Using cross validation like K-Fold, Stratified-K-Fold will increase accuracy. 
